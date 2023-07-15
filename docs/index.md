@@ -6,7 +6,7 @@ title: Kenny Ceron's Resume
 Data Science Student at BYU-Idaho
 
 <div id="webaddress">
-<a href="kennethceron2002@gmail.com">kennethceron2002@gmail.com</a>
+<a href="kennethceron2002@gmail.com">kennethceron2002@gmail.com</a>| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
