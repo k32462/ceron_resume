@@ -2,7 +2,7 @@
 layout: cv
 title: Kenny Ceron's Resume
 ---
-# Brigham Young
+# Kenny Ceron
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
